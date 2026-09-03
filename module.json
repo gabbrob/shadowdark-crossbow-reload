@@ -2,12 +2,15 @@
   "id": "shadowdark-crossbow-reload",
   "title": "Shadowdark Crossbow Reload",
   "description": "Adds a loaded/unloaded state to Shadowdark crossbows with reload controls directly on the character sheet.",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "authors": [
     {
-      "name": "Robert & ChatGPT"
+      "name": "Robert Gabbert"
     }
   ],
+  "url": "https://github.com/gabbrob/shadowdark-crossbow-reload",
+  "manifest": "https://raw.githubusercontent.com/gabbrob/shadowdark-crossbow-reload/main/module.json",
+  "download": "https://github.com/gabbrob/shadowdark-crossbow-reload/releases/download/v1.0.0/shadowdark-crossbow-reload.zip",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
